@@ -61,11 +61,9 @@
 
       <div class="red-panda">
         <picture>
-          <source srcset="red-panda-600portrait.jpg"
-          media="(max-width: 600px)">
-          <source srcset="red-panda-1200landscape.jpg"
-          media="(min-width: 601px)">
-          <img srcset="red-panda-1200landscape.jpg" alt="Red Panda">
+          <img src="red-panda-1200landscape.jpg" alt="Red Panda"
+          srcset="red-panda-600portrait.jpg 600w, red-panda-1200landscape.jpg 1200w"
+          sizes="(max-width: 600px) 100vw, (min-width: 601px) 100vw">
         </picture>
       </div>
 
