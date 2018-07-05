@@ -1,1 +1,0 @@
-+++ redirect_to = "/HTML Responsive Images/" +++
