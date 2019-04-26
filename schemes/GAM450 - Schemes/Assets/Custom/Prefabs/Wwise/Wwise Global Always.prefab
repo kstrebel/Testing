@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8030372252641240317
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2387549369586742766}
+  - component: {fileID: 1915963240145580937}
+  - component: {fileID: 482434683108288258}
+  - component: {fileID: 6096159665826525651}
+  - component: {fileID: 7033387852051656888}
+  - component: {fileID: 3662345449430226344}
+  m_Layer: 0
+  m_Name: Wwise Global Always
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2387549369586742766
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8030372252641240317}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 200.75, y: 121, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1915963240145580937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8030372252641240317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1f3fb7ef77db054db1eece2387f8407, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StartMusic:
+    idInternal: -1008781972
+    valueGuidInternal: b2131b590079db449ea9a5fb08a161b3
+    WwiseObjectReference: {fileID: 11400000, guid: 99199b7eb1f7d4940807ffd1f18c1910,
+      type: 2}
+  StopMusic:
+    idInternal: 328109042
+    valueGuidInternal: c980df4b8f0cd54e914e0919fe85b55f
+    WwiseObjectReference: {fileID: 11400000, guid: 0b116cde380769c449fcff5ada31db1b,
+      type: 2}
+  ToOP:
+    idInternal: -1303784767
+    valueGuidInternal: 4e0093929ae97145a4aec599910f3c48
+    WwiseObjectReference: {fileID: 11400000, guid: 3ddaa51186113154aa971aa59e084a8e,
+      type: 2}
+  ToMainMenu:
+    idInternal: -1992696327
+    valueGuidInternal: 693e0d275efe4841af713ab9cde9097c
+    WwiseObjectReference: {fileID: 11400000, guid: 2c5d1da114452c34d87f4e89cf268751,
+      type: 2}
+  ToCharacterSelect:
+    idInternal: -1054244795
+    valueGuidInternal: 36b2770d9489f546b9d0c881657e01dd
+    WwiseObjectReference: {fileID: 11400000, guid: 4d1cd52f5b6051144ae356f2b7bb9d14,
+      type: 2}
+  ToCredits:
+    idInternal: -1584039854
+    valueGuidInternal: bbc08b83495b394caf17350e3c5d912b
+    WwiseObjectReference: {fileID: 11400000, guid: 3473f653bfd5e27468e9e70a4a7a532a,
+      type: 2}
+  ToBattlePlan:
+    idInternal: -473411558
+    valueGuidInternal: e1a69050f36b7c42ad8a6f40547c13f0
+    WwiseObjectReference: {fileID: 11400000, guid: 46e46c85ebd740547a6cc7e9fd4c52d0,
+      type: 2}
+  ToBattleReveal:
+    idInternal: -473411558
+    valueGuidInternal: e1a69050f36b7c42ad8a6f40547c13f0
+    WwiseObjectReference: {fileID: 11400000, guid: 46e46c85ebd740547a6cc7e9fd4c52d0,
+      type: 2}
+  ToResults:
+    idInternal: -473411558
+    valueGuidInternal: e1a69050f36b7c42ad8a6f40547c13f0
+    WwiseObjectReference: {fileID: 11400000, guid: 2bbe707bf55d4e1409abbf66479f92f2,
+      type: 2}
+  ShowAudioDebugMessages: 0
+--- !u!114 &482434683108288258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8030372252641240317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e17e2f285e39464f86f87edb8e18e69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UIHover:
+    idInternal: 1962302600
+    valueGuidInternal: c42f14c3cec41f46ad7beb3deed4d3f6
+    WwiseObjectReference: {fileID: 11400000, guid: bc10671f307d9b448b1afcc34b78870a,
+      type: 2}
+  UISelect:
+    idInternal: -1504921056
+    valueGuidInternal: 7218dd6f343108468462c70e98fb091f
+    WwiseObjectReference: {fileID: 11400000, guid: 07e265d3da715084b92963601c1aaab0,
+      type: 2}
+  UIBack:
+    idInternal: -1504921052
+    valueGuidInternal: 08ccc26389338a498cf23c43883d2119
+    WwiseObjectReference: {fileID: 11400000, guid: 3fbbeb2f6e1b92d48886150c2df94202,
+      type: 2}
+--- !u!114 &6096159665826525651
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8030372252641240317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25f39b48385776844b36e8e230192e46, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerList: f7e1664c
+  useOtherObject: 0
+  data:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: dcddb0559454b3f4dae36ea10e220064,
+      type: 2}
+  decodeBank: 0
+  loadAsynchronous: 0
+  saveDecodedBank: 0
+  unloadTriggerList: 
+  bankNameInternal: Schemes
+  valueGuidInternal: e9900025e69c84499cf906fa85177adc
+--- !u!114 &7033387852051656888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8030372252641240317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca008174c8f78aa4fb4e9e97ce3c945d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_listeners:
+    initialListenerList:
+    - {fileID: 3662345449430226344}
+    useDefaultListeners: 0
+  isEnvironmentAware: 1
+  isStaticObject: 0
+  m_positionOffsetData:
+    KeepMe: 0
+    positionOffset: {x: 0, y: 0, z: 0}
+  m_posOffsetData: {fileID: 0}
+  listenerMask: 1
+--- !u!114 &3662345449430226344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8030372252641240317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b34b1c70216e16e42a7160ee1d5982b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDefaultListener: 0
+  listenerId: 0

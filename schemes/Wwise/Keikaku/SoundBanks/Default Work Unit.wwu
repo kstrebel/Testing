@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3CBD4590-7675-4F6B-9337-57E17A7D0FD5}" SchemaVersion="89">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{3CBD4590-7675-4F6B-9337-57E17A7D0FD5}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Schemes" ID="{250090E9-9CE6-4984-9CF9-06FA85177ADC}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Bear_Fizzle" ID="{0F07043F-4C92-4004-BF5A-91EA526A49AA}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_Gloat" ID="{269CA426-4035-403B-BEC1-9B7C461DE48E}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_Spell" ID="{780EF13A-AA43-4069-B2F9-2CB5F556891D}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_Attack" ID="{EB3276EB-B265-4077-8799-24F9E53C2A16}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Set_Switch_Doof" ID="{8C34D329-C70D-4082-AD28-15BC24ABD8D3}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_Spell" ID="{4BBEF80B-F079-408E-9C16-7C7878B87D67}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_Loss" ID="{F2065C85-5AC9-4096-97B3-856160637E79}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_Victory" ID="{681C8251-A6A7-40A9-BE24-0233E87C563B}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_Title" ID="{322ADC38-9DC7-40B9-8532-9BCF910EDD0D}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_Gloat" ID="{2D55B82C-4EEB-40E2-9118-D0559D08294C}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Set_Switch_Villain" ID="{1F85FB33-A2CF-4138-B665-6B0B43A077BD}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_IdolSignature" ID="{412AAA96-E510-4140-8723-A2FB48051EE2}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Set_State_Menu" ID="{270D3E69-FE5E-4148-AF71-3AB9CDE9097C}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_Attack" ID="{25A5C516-6946-416A-9487-009D9188306D}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Set_Switch_Idol" ID="{666E1947-60D9-41B3-A7BF-5071AC7437FC}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_Attack" ID="{B9C5CF45-DEC8-41FE-B08A-8E9DBE14F508}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_ProtagSignature" ID="{3182898E-E090-4212-84F7-9586E6F0962E}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Set_State_Battle" ID="{5090A6E1-6BF3-427C-AD8A-6F40547C13F0}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_Block" ID="{00F5D62A-3EF3-429F-9574-C401BCCC32E4}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_Scales" ID="{FA4CD11F-D577-42D3-9E26-6699CC6D92E2}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_TestShort" ID="{C40ACF34-2229-42FD-95D6-AF8872F0C47F}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_Title" ID="{BCA6ADEF-AF47-4381-89EC-FD88FD7668D4}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_MajorDamage" ID="{41A8FFFA-863A-4393-8E37-5402919AF40F}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_Gasp" ID="{8BCC04BE-4D10-4397-9627-39424F0D54F7}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_Block" ID="{337B59B5-CE6B-43D9-A7EE-9136A174B883}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_Block" ID="{AD170A7D-57D2-43E8-8035-805BCB2F5AE3}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_Select" ID="{A17A6182-DF66-43FC-94DF-75070DA8E28D}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_Scales" ID="{75FAECAF-DE81-4431-8C0B-DA529ADFF20C}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_CardImpact" ID="{79F80AC6-7497-445F-961D-69E48472FD94}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_Victory" ID="{80AFE0E6-460B-4499-93D4-1CC18DB62C6D}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_Loss" ID="{F355BDA1-0BDD-44B3-9E03-8AF1667E006D}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Attack" ID="{A487B01F-BB81-44C0-954B-1EAD5FCBD137}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_AllMusic" ID="{591B13B2-7900-44DB-9EA9-A5FB08A161B3}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Winner" ID="{C5E1A7D9-0E71-4501-9683-045781E39F02}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_Block" ID="{B25DB44D-24C8-4514-A2E4-466519C4223A}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_Signature" ID="{687910EF-D526-4524-A10B-951F35553301}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_Title" ID="{D3BEBF16-8526-4562-9501-E2E8780BEE20}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Set_State_OP" ID="{9293004E-E99A-4571-A4AE-C599910F3C48}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_MinorDamage" ID="{970D19C8-0ABD-4591-A4AF-D46F52AF1810}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_Spell" ID="{994C7A04-949C-45B7-82FF-F25164A85DF8}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_MinorDamage" ID="{AEC67468-8722-45EF-A30C-EF8015DA2C7E}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_ClickF" ID="{6FDD1872-3134-4608-8462-C70E98FB091F}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_Awkward" ID="{02636671-4ADA-4608-88D9-3392BFDA344A}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_Spell" ID="{EF5E2369-230C-460E-B011-623CAB3D26D7}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Hover" ID="{C3142FC4-C4CE-461F-AD7B-EB3DEED4D3F6}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_Victory" ID="{65123B89-15B5-4622-9111-0D60431E5068}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_Loss" ID="{42FD00F3-D343-462B-BFF1-57045AB0BB59}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Loser" ID="{DE813B6A-CA26-4639-897A-31C99CC9C51F}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_Attack" ID="{8833E65F-4A98-464D-944E-BAB4E7B1C05A}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_Title" ID="{48CE5273-23A0-4669-B36B-A2BCDBD2C6A9}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_Fizzle" ID="{F18678B4-635B-467C-9A13-7A2D27E2A4AE}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_TestLong" ID="{7553695C-FD85-4684-8488-0356ED558195}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_CardHover" ID="{8E6A49F0-D13D-4689-A54D-7C69E64BAE17}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_Gasp" ID="{EAD1582A-A330-4699-978B-236D1A575FAE}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_Scales" ID="{0901C602-9579-46A1-88D6-DDAA8652552B}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_Attack" ID="{A3A667D2-CAAF-46A2-BE29-38543F9004AC}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_Select" ID="{28410610-6C11-46AC-A219-351EF0F287DD}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_Victory" ID="{835CEC06-AE9A-46BC-86EB-4F8AD8891877}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_DamageBlocked" ID="{62E99A8F-7721-46D5-8758-D6067C39C605}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Set_State_PreBattle" ID="{0D77B236-8994-46F5-B9D0-C881657E01DD}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_Gasp" ID="{33C3B47F-DF4A-46FE-9049-BACE519DED38}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_ScaleStop" ID="{8876B99B-DAA9-470D-8A70-471F38846031}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_MajorDamage" ID="{5E3B65C0-C45A-4715-A6BC-DF0BF8B07858}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_Scales" ID="{B4069007-A34C-4750-B720-093148238929}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_Gloat" ID="{7A4A4627-ABE4-4755-9773-FD0C6187AA18}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_Select" ID="{68999CEC-046D-477B-B056-249440570912}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_Fizzle" ID="{8F63447C-A93C-47C8-8434-0E6579105D6B}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_Loss" ID="{73462C6C-3368-47CB-B628-8F411BA53FEC}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_Fizzle" ID="{30AF18BE-E72E-47E3-BEC5-478B7128EA6F}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_Signature" ID="{44A31BD5-DF5A-47F0-BF59-D5F801E5C368}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_Gloat" ID="{2C8674C0-88F6-4828-A93D-284A2B73360E}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Pause" ID="{20B16587-6D60-4846-82E3-97835A268830}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_Scales" ID="{6A7EA4BB-D794-4855-9E08-A6958C6A55A4}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_Select" ID="{AF0F7536-D8B5-486A-9E9F-659CDE5AA54E}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_MajorDamage" ID="{AA41D574-CE0B-4876-9F89-0BB88B34B4C9}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_Victory" ID="{101BB29B-E791-488F-9708-EAB64E3663D3}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_Select" ID="{1D4EBB42-DE33-489B-A0F2-FDC05F2B45A3}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_Signature" ID="{82D6AB4E-C063-48D4-B049-C58D791BBBC3}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_MinorDamage" ID="{28AAB911-91BB-48ED-AFD4-60B6391CD76C}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_Title" ID="{8C00FC35-6694-48FA-93F5-1BE963EB3B92}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Schwing" ID="{628D7D14-4595-490D-9E01-B4307E815610}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_Signature" ID="{F8B962A9-099D-4916-B846-32EAFAF96220}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Unpause" ID="{F0301659-23D3-4935-BF26-BD7116EDC107}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_Awkward" ID="{F8CBB365-4574-4947-8A65-1A06F94426F1}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Spell" ID="{5DD3C17B-ED45-4952-8A53-83D9E1944F9D}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Set_State_CharSelect" ID="{C7FA8DF0-3ECE-496E-B8B3-2C8759B3B6A9}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_ClickB" ID="{63C2CC08-3389-498A-8CF2-3C43883D2119}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_Awkward" ID="{CA858FC8-BC89-49F5-86CE-FEFC760862E6}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_Signature" ID="{F470534C-188F-4A3A-B61F-526361167E60}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_Block" ID="{107735ED-B1DF-4A49-8264-CD6DA3816042}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Victory" ID="{CC411CAA-825F-4A6A-BF23-5FB38EC50FD7}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_Gasp" ID="{68CDC1A6-01BC-4A86-B176-2038CF9A418B}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_Loss" ID="{19F4A3EB-60A6-4A92-A497-43391B1D4331}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_Awkward" ID="{9C44013B-6FFA-4AA9-B199-02C9BF30E4B4}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_Spell" ID="{6773B658-551E-4AB3-9B65-69CDA7212F25}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_BattleStart" ID="{A8238A70-1365-4AC6-8EAA-36C8B1139329}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_MajorDamage" ID="{CC67B0E8-3C95-4AE1-BBCB-AEC47FAB86BF}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Set_Switch_Protag" ID="{74BDDB03-EA2F-4AF0-A4F5-53F7B825C0DD}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_Loss" ID="{F57B71DA-BD8D-4AF6-BFD3-A9C11C464070}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_VillainSignature" ID="{5EBB1014-17E5-4B7E-B5AB-22BB085BAE4A}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_Gloat" ID="{9B2C7B38-F21A-4B99-B24D-0A212378DDD7}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_Spell" ID="{CD20ED10-C20C-4BBA-B2DF-99BA82C2C5DB}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_BearSignature" ID="{CA97313D-7A2B-4BE5-99AC-88CC88084C6C}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_Signature" ID="{F1FACB2C-68B0-4BEE-BE9F-209434C79C4C}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_BattleStart" ID="{66806033-5C76-4C01-97EF-3CAF4FF6390A}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_MinorDamage" ID="{988D71F0-6886-4C03-9662-E3E108170F8B}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_Victory" ID="{845E8615-9DA7-4C04-AB59-1CA28E160955}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Title" ID="{80A465A1-A9ED-4C06-B1BA-52C938C6657E}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_BattleStart" ID="{ECD78BCF-B13A-4C18-B8DB-DF4EAD47FD5B}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Set_State_Credits" ID="{838BC0BB-5B49-4C39-AF17-350E3C5D912B}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_Awkward" ID="{B288FF49-1935-4C3E-818F-8167121EA562}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_BattleStart" ID="{9D97CEEB-2ADF-4C89-8AC1-C91A419FA458}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_Gloat" ID="{83C3AE90-6A2D-4CAD-8BC3-03A441C47D2B}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_BattleStart" ID="{B50DDE3E-8823-4CB1-95F7-2724E5FC773C}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_Gasp" ID="{E5BE49BB-A68A-4CD7-8D78-389BF7C57C10}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Gasps" ID="{D88EE04D-5E49-4D05-B35E-833DB5E7D8F4}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_DoofSignature" ID="{A24A3342-8CDA-4D10-9C2B-11851AC34627}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_MajorDamage" ID="{D24D0D0B-783D-4D25-84DB-DA72FA88E68F}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_Select" ID="{C636151D-4F00-4D32-904C-065CF6F8ECA8}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_MinorDamage" ID="{BD1FD1EB-8E1A-4D6B-BA11-54A868BA1C66}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Set_Switch_Bear" ID="{D188846D-5652-4D6F-9752-5CC24479C8C2}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_MinorDamage" ID="{B86BFC8B-A9F6-4D9D-9CD3-AEC2D6000F58}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_CardDraw" ID="{B2E47A30-E6F9-4DAB-BED5-C87CE7328428}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Villain_Title" ID="{F9BB8884-7E09-4DB4-948B-F624D200C8B8}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="shut_up" ID="{FD2A3A1D-8AD3-4DBD-AB0D-80EFDA12CB8B}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_Gasp" ID="{C132215D-411D-4DED-8322-38F5AB604346}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_Victory" ID="{D9266A75-FAE5-4E08-BD4D-B7F2A94B993F}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_Fizzle" ID="{9139AF83-0078-4E29-BE6F-12D128C7C5E5}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Sensei_Scales" ID="{A5BA2740-9E24-4E6B-B0B4-6DDF55F77A15}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Protag_Awkward" ID="{ECE95EB3-C810-4E8D-B65B-CA34BDA5E583}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_ScaleMove" ID="{8947D49C-BD59-4EB8-B89C-ABB24CF1D2D9}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_AllMusic" ID="{4BDF80C9-0C8F-4ED5-914E-0919FE85B55F}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_Block" ID="{1426E4C3-3352-4EEE-B861-277BD7CB660F}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_CardHover" ID="{0D1DD9EB-8855-4EF3-BE44-271DC5504B55}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_Fizzle" ID="{6AAA97AE-46E6-4F0C-BDB7-4347A97109B2}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Idol_Attack" ID="{94B9789B-70E9-4F73-BA89-26281B820DA8}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Doof_MajorDamage" ID="{175A5C26-7213-4F82-9828-083807E31F10}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Set_Switch_Sensei" ID="{8BD40614-672B-4F8D-9E9D-BFE6B3DBCFC0}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_SenseiSignature" ID="{9464590F-D77E-4FE2-AF33-31F06025601F}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Bear_BattleStart" ID="{596BFEE5-AEE5-4FF8-BFD7-39D2DF033255}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

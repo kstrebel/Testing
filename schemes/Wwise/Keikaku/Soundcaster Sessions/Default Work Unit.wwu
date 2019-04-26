@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{855DC6FE-4D81-4CE6-96D9-F3138C6CA185}" SchemaVersion="89">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{855DC6FE-4D81-4CE6-96D9-F3138C6CA185}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="signature" ID="{D84827E2-AE80-4086-BA3D-1022409AB95C}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Play_Bear_Signature" ID="{44A31BD5-DF5A-47F0-BF59-D5F801E5C368}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Protag_Signature" ID="{F470534C-188F-4A3A-B61F-526361167E60}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_AllMusic" ID="{591B13B2-7900-44DB-9EA9-A5FB08A161B3}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Doof_Signature" ID="{F8B962A9-099D-4916-B846-32EAFAF96220}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Sensei_Signature" ID="{82D6AB4E-C063-48D4-B049-C58D791BBBC3}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Pause" ID="{20B16587-6D60-4846-82E3-97835A268830}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="1" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Idol_Signature" ID="{687910EF-D526-4524-A10B-951F35553301}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Villain_Signature" ID="{F1FACB2C-68B0-4BEE-BE9F-209434C79C4C}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Unpause" ID="{F0301659-23D3-4935-BF26-BD7116EDC107}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="2" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Gasps" ID="{D88EE04D-5E49-4D05-B35E-833DB5E7D8F4}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="Paused" ID="{E6D2AE63-4627-492E-8094-50DA98EBF6CF}"/>
+							<Value>0</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="One" ID="{9E0A20C2-2479-4ABA-98FB-DC3CDBD7CC31}"/>
+						<CurrentStateRef Name="Battle" ID="{D66B7C71-C45F-4714-BCEE-876CEB18F902}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Battle" ID="{BF4DE738-7A27-47BE-9914-7999161287BA}"/>
+						<CurrentSwitchRef Name="Villain" ID="{24B44EA4-1AAC-4D22-AF00-0014B7F8B8E0}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+				<SoundcasterSession Name="ui" ID="{FEF476CE-6EE8-40AA-904A-489897D5F825}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Play_ClickB" ID="{63C2CC08-3389-498A-8CF2-3C43883D2119}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_ClickF" ID="{6FDD1872-3134-4608-8462-C70E98FB091F}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Hover" ID="{C3142FC4-C4CE-461F-AD7B-EB3DEED4D3F6}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Battle" ID="{BF4DE738-7A27-47BE-9914-7999161287BA}"/>
+						<CurrentSwitchRef Name="Villain" ID="{24B44EA4-1AAC-4D22-AF00-0014B7F8B8E0}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+				<SoundcasterSession Name="ddddddd" ID="{B5E7F71D-FBDC-428A-A9B1-C73F27AF6087}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Play_AllMusic" ID="{591B13B2-7900-44DB-9EA9-A5FB08A161B3}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Villain_Attack" ID="{25A5C516-6946-416A-9487-009D9188306D}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_ScaleMove" ID="{8947D49C-BD59-4EB8-B89C-ABB24CF1D2D9}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_CardImpact" ID="{79F80AC6-7497-445F-961D-69E48472FD94}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="0" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="shut_up" ID="{FD2A3A1D-8AD3-4DBD-AB0D-80EFDA12CB8B}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="0" Y="4"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Stop_AllMusic" ID="{4BDF80C9-0C8F-4ED5-914E-0919FE85B55F}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Spell" ID="{5DD3C17B-ED45-4952-8A53-83D9E1944F9D}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_ScaleStop" ID="{8876B99B-DAA9-470D-8A70-471F38846031}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="1" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Sensei_Attack" ID="{8833E65F-4A98-464D-944E-BAB4E7B1C05A}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="1" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_CardHover" ID="{0D1DD9EB-8855-4EF3-BE44-271DC5504B55}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="1" Y="4"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Set_State_Battle" ID="{5090A6E1-6BF3-427C-AD8A-6F40547C13F0}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Attack" ID="{A487B01F-BB81-44C0-954B-1EAD5FCBD137}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_CardImpact" ID="{79F80AC6-7497-445F-961D-69E48472FD94}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="2" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Doof_Title" ID="{8C00FC35-6694-48FA-93F5-1BE963EB3B92}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="2" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Stop_CardHover" ID="{8E6A49F0-D13D-4689-A54D-7C69E64BAE17}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="2" Y="4"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Set_State_Menu" ID="{270D3E69-FE5E-4148-AF71-3AB9CDE9097C}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_DamageBlocked" ID="{62E99A8F-7721-46D5-8758-D6067C39C605}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="3" Y="2"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="VolumeMaster" ID="{9BD6A1CA-3BAD-4276-8E68-B6A50DBE31FB}"/>
+							<Value>100</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="VolumeMusic" ID="{D94B0F88-0AF2-4729-8C7E-7935E3B03145}"/>
+							<Value>100</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="VolumeVO" ID="{6F31CF0F-DA72-4738-8ED4-D69BCE70421D}"/>
+							<Value>100</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Paused" ID="{E6D2AE63-4627-492E-8094-50DA98EBF6CF}"/>
+							<Value>1.14272990019744E-311</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="VolumeSFX" ID="{37B108E0-8FFD-4A8C-903B-1A56004BAE6D}"/>
+							<Value>100</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="One" ID="{9E0A20C2-2479-4ABA-98FB-DC3CDBD7CC31}"/>
+						<CurrentStateRef Name="Victory" ID="{6F7835A3-5711-4796-B408-BD7FB1672B82}"/>
+						<CurrentStateRef Name="Char" ID="{8BE7E787-E1AB-4FDB-A0FA-D66DC155F00A}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Battle" ID="{BF4DE738-7A27-47BE-9914-7999161287BA}"/>
+						<CurrentSwitchRef Name="Idol" ID="{435AC590-44EE-4DE4-8FD8-0B00CAEB7FEC}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+				<SoundcasterSession Name="music" ID="{B1B85089-6F18-4D61-A228-2E858ADEF0DC}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Play_AllMusic" ID="{591B13B2-7900-44DB-9EA9-A5FB08A161B3}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Set_State_PreBattle" ID="{0D77B236-8994-46F5-B9D0-C881657E01DD}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Set_State_Menu" ID="{270D3E69-FE5E-4148-AF71-3AB9CDE9097C}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Set_State_OP" ID="{9293004E-E99A-4571-A4AE-C599910F3C48}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Set_State_Battle" ID="{5090A6E1-6BF3-427C-AD8A-6F40547C13F0}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Set_State_Menu" ID="{270D3E69-FE5E-4148-AF71-3AB9CDE9097C}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Set_State_Credits" ID="{838BC0BB-5B49-4C39-AF17-350E3C5D912B}" WorkUnitID="{14F4E39A-6570-4812-B5AE-0A86D8346B1D}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="VolumeMaster" ID="{9BD6A1CA-3BAD-4276-8E68-B6A50DBE31FB}"/>
+							<Value>100</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="VolumeMusic" ID="{D94B0F88-0AF2-4729-8C7E-7935E3B03145}"/>
+							<Value>100</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="VolumeVO" ID="{6F31CF0F-DA72-4738-8ED4-D69BCE70421D}"/>
+							<Value>100</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Paused" ID="{E6D2AE63-4627-492E-8094-50DA98EBF6CF}"/>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="VolumeSFX" ID="{37B108E0-8FFD-4A8C-903B-1A56004BAE6D}"/>
+							<Value>100</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="One" ID="{9E0A20C2-2479-4ABA-98FB-DC3CDBD7CC31}"/>
+						<CurrentStateRef Name="Battle" ID="{D66B7C71-C45F-4714-BCEE-876CEB18F902}"/>
+						<CurrentStateRef Name="None" ID="{3FFD33F4-1058-482B-B0F4-61B2A9534E50}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Battle" ID="{BF4DE738-7A27-47BE-9914-7999161287BA}"/>
+						<CurrentSwitchRef Name="Bear" ID="{F1EB0B72-ED26-411A-B225-9ADA5D8D1AE7}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>
